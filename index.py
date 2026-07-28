@@ -2,6 +2,7 @@
 import math
 import numpy
 import pandas
+import streamlit
 #Title
 print('====================================\n Advanced Scientific Calculator \n Type or exit to stop \n ===================================' )
 user_result=input('Enter calculation:')
